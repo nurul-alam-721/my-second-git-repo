@@ -17,3 +17,7 @@ ol, h3 {
     list-style-position: inside;
     box-shadow: 10px 10px 10px blue;
 }
+
+img{
+    margin: 0 auto;
+}
